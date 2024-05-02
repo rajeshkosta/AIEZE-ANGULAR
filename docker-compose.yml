@@ -1,6 +1,6 @@
 version: '3.3'
 services:
    web:
-     image: rajeshkosta/my_image:latest
+     image: rajeshkosta/myangular:latest
      ports:
       - "3000:3000"
